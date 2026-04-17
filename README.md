@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=C0392B,FF6B6B&text=forthang&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=frontend%20·%20backend%20·%20ml&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&text=forthang&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=frontend%20·%20backend%20·%20ml&descAlignY=55&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-[![typing svg](https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=3000&pause=1000&color=C0392B,FF6B6B&center=true&vCenter=true&width=600&lines=building+cool+things+%F0%9F%9A%80;frontend+%2B+backend+%2B+ml;react+%2B+typescript+enjoyer;always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![typing svg](https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=3000&pause=1000&color=gradient&customColorList=2&center=true&vCenter=true&width=600&lines=building+cool+things+%F0%9F%9A%80;frontend+%2B+backend+%2B+ml;react+%2B+typescript+enjoyer;always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ---
 
@@ -48,8 +48,8 @@
 
 ---
 
-![views](https://komarev.com/ghpvc/?username=forthang&style=for-the-badge&color=C0392B,FF6B6B&label=PROFILE+VIEWS)
+![views](https://komarev.com/ghpvc/?username=forthang&style=for-the-badge&color=gradient&customColorList=2&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=C0392B,FF6B6B&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2&section=footer&animation=twinkling" width="100%"/>
