@@ -97,7 +97,9 @@ software developer focused on building things that work.
 -->
 
 
-
+<!-- СТИЛЬ 3: ХАКЕРСКИЙ / ТЕРМИНАЛЬНЫЙ
+     Удали эту строку и закрывающую --> чтобы активировать -->
+<!--
 <div align="center">
 
 ```
@@ -148,12 +150,10 @@ user@forthang:~$ █
 ![views](https://komarev.com/ghpvc/?username=forthang&style=flat-square&color=00FF41&label=profile+views)
 
 </div>
+-->
 
 
 
-<!-- СТИЛЬ 4: ЯРКИЙ И КРЕАТИВНЫЙ
-     Удали эту строку и закрывающую --> чтобы активировать -->
-<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=forthang&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=backend%20·%20ml%20·%20full-stack&descAlignY=55&animation=twinkling" width="100%"/>
 
 <div align="center">
@@ -231,8 +231,8 @@ user@forthang:~$ █
 
      Затем раскомментируй строки ниже: -->
 
-<!-- ![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake-dark.svg#gh-dark-mode-only) -->
-<!-- ![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake.svg#gh-light-mode-only) -->
+![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake-dark.svg#gh-dark-mode-only) 
+![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake.svg#gh-light-mode-only) 
 
 ---
 
