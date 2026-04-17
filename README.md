@@ -1,105 +1,5 @@
-<!-- СТИЛЬ 1: МИНИМАЛИСТИЧНЫЙ
-     Удали эту строку и закрывающую --> чтобы активировать -->
-<!--
-![views](https://komarev.com/ghpvc/?username=forthang&style=flat-square&color=grey&label=profile+views)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20&animation=twinkling" width="100%"/>
 
-### forthang
-
-software developer focused on building things that work.
-
-**about:**
-- working with python and typescript on backend and data projects
-- interested in ml, distributed systems, and clean architecture
-- using linux daily, containerising everything with docker
-- open to interesting collaborations
-
-**stack:**
-- languages: python, javascript, typescript
-- frontend: react
-- backend: node.js, postgresql, redis
-- infra: docker, linux, git
-- ml: pytorch, scikit-learn, pandas
-
----
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=forthang&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/forthang)
-
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forthang&layout=compact&theme=default&hide_border=true)](https://github.com/forthang)
--->
-
-
-<!-- СТИЛЬ 2: НАСЫЩЕННЫЙ СО СТАТИСТИКОЙ
-     Удали эту строку и закрывающую --> чтобы активировать -->
-<!--
-<div align="center">
-
-[![typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+I'm+forthang+%F0%9F%91%8B;Backend+%7C+ML+%7C+Full-Stack+Developer)](https://git.io/typing-svg)
-
----
-
-### tech stack
-
-[![skillicons](https://skillicons.dev/icons?i=python,ts,js,nodejs,react,docker,postgres,redis,linux,git,pytorch,sklearn&perline=6)](https://skillicons.dev)
-
----
-
-### github stats
-
-<a href="https://github.com/forthang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=forthang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forthang&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
----
-
-[![streak](https://github-readme-streak-stats.herokuapp.com?user=forthang&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### trophies
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=forthang&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-<!-- 🐍 Snake animation requires a GitHub Action.
-     Create .github/workflows/snake.yml with:
-
-     name: Generate Snake
-     on:
-       schedule: [{cron: "0 0 * * *"}]
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: forthang
-               outputs: |
-                 dist/github-snake.svg
-                 dist/github-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-     Then uncomment the line below: -->
-
-<!-- ![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake-dark.svg#gh-dark-mode-only) -->
-<!-- ![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake.svg#gh-light-mode-only) -->
-
-![views](https://komarev.com/ghpvc/?username=forthang&style=flat-square&color=9B59B6&label=profile+views)
-
-</div>
--->
-
-
-<!-- СТИЛЬ 3: ХАКЕРСКИЙ / ТЕРМИНАЛЬНЫЙ
-     Удали эту строку и закрывающую --> чтобы активировать -->
-<!--
 <div align="center">
 
 ```
@@ -109,54 +9,6 @@ software developer focused on building things that work.
  |  _|| |_| |  _ <  | | |  _  |/ ___ \| |\  | |_| |
  |_|   \___/|_| \_\ |_| |_| |_/_/   \_\_| \_|\____|
 ```
-
-[![typing svg](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=initializing+session...;user%40forthang+%24+whoami;backend+%2F+ml+%2F+full-stack+dev;ready.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-```bash
-user@forthang:~$ whoami
-forthang — software developer
-
-user@forthang:~$ cat about.txt
-> building backend systems and ml pipelines
-> obsessed with clean code and fast queries
-> linux enthusiast, docker everything
-> always learning, always shipping
-
-user@forthang:~$ cat skills.txt
-LANGUAGES  │ Python · JavaScript · TypeScript
-FRONTEND   │ React
-BACKEND    │ Node.js · PostgreSQL · Redis
-INFRA      │ Docker · Linux · Git
-ML/DATA    │ PyTorch · scikit-learn · pandas
-
-user@forthang:~$ uptime
-always online, always building
-
-user@forthang:~$ █
-```
-
----
-
-<div align="center">
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=forthang&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)](https://github.com/forthang)
-
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forthang&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/forthang)
-
-![views](https://komarev.com/ghpvc/?username=forthang&style=flat-square&color=00FF41&label=profile+views)
-
-</div>
--->
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=forthang&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=backend%20·%20ml%20·%20full-stack&descAlignY=55&animation=twinkling" width="100%"/>
-
-<div align="center">
 
 [![typing svg](https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=building+cool+things+%F0%9F%9A%80;backend+%2B+ml+%2B+full-stack;python+%2B+typescript+enjoyer;always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -205,34 +57,8 @@ user@forthang:~$ █
 
 ---
 
-<!-- 🐍 Snake animation requires a GitHub Action.
-     Create .github/workflows/snake.yml with:
-
-     name: Generate Snake
-     on:
-       schedule: [{cron: "0 0 * * *"}]
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: forthang
-               outputs: |
-                 dist/github-snake.svg
-                 dist/github-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-     Затем раскомментируй строки ниже: -->
-
-![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake-dark.svg#gh-dark-mode-only) 
-![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake.svg#gh-light-mode-only) 
+![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/forthang/forthang/output/github-snake.svg#gh-light-mode-only)
 
 ---
 
@@ -241,4 +67,3 @@ user@forthang:~$ █
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&animation=twinkling" width="100%"/>
--->
