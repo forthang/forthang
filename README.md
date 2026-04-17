@@ -1,6 +1,6 @@
-
-    
-
+<!-- СТИЛЬ 1: МИНИМАЛИСТИЧНЫЙ
+     Удали эту строку и закрывающую --> чтобы активировать -->
+<!--
 ![views](https://komarev.com/ghpvc/?username=forthang&style=flat-square&color=grey&label=profile+views)
 
 ### forthang
@@ -25,7 +25,7 @@ software developer focused on building things that work.
 [![github stats](https://github-readme-stats.vercel.app/api?username=forthang&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/forthang)
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forthang&layout=compact&theme=default&hide_border=true)](https://github.com/forthang)
-
+-->
 
 
 <!-- СТИЛЬ 2: НАСЫЩЕННЫЙ СО СТАТИСТИКОЙ
@@ -97,9 +97,7 @@ software developer focused on building things that work.
 -->
 
 
-<!-- СТИЛЬ 3: ХАКЕРСКИЙ / ТЕРМИНАЛЬНЫЙ
-     Удали эту строку и закрывающую --> чтобы активировать -->
-<!--
+
 <div align="center">
 
 ```
@@ -150,7 +148,7 @@ user@forthang:~$ █
 ![views](https://komarev.com/ghpvc/?username=forthang&style=flat-square&color=00FF41&label=profile+views)
 
 </div>
--->
+
 
 
 <!-- СТИЛЬ 4: ЯРКИЙ И КРЕАТИВНЫЙ
